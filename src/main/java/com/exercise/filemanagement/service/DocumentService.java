@@ -1,8 +1,8 @@
-package com.exercise.FileManagement.service;
+package com.exercise.filemanagement.service;
 
-import com.exercise.FileManagement.dtos.DocumentDTO;
-import com.exercise.FileManagement.model.Document;
-import com.exercise.FileManagement.repository.DocumentRepository;
+import com.exercise.filemanagement.dtos.DocumentDTO;
+import com.exercise.filemanagement.model.Document;
+import com.exercise.filemanagement.repository.DocumentRepository;
 import org.springframework.core.io.Resource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.UrlResource;

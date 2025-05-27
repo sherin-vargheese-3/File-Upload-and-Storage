@@ -1,8 +1,8 @@
-package com.exercise.FileManagement.controller;
+package com.exercise.filemanagement.controller;
 
-import com.exercise.FileManagement.dtos.DocumentDTO;
-import com.exercise.FileManagement.model.Document;
-import com.exercise.FileManagement.service.DocumentService;
+import com.exercise.filemanagement.dtos.DocumentDTO;
+import com.exercise.filemanagement.model.Document;
+import com.exercise.filemanagement.service.DocumentService;
 import org.springframework.core.io.Resource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;

@@ -6,4 +6,4 @@ A simple Spring Boot API for document management. It supports uploading files wi
 
 ## Project structure
 
-*   **[com.exercise.FileManagement](src/main/java/com/exercise/FileManagement)**: The main application package.
+*   **[com.exercise.filemanagement](src/main/java/com/exercise/filemanagement)**: The main application package.

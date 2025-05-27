@@ -1,4 +1,4 @@
-package com.exercise.FileManagement.model;
+package com.exercise.filemanagement.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

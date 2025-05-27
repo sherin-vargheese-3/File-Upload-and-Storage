@@ -1,6 +1,6 @@
-package com.exercise.FileManagement.repository;
+package com.exercise.filemanagement.repository;
 
-import com.exercise.FileManagement.model.Document;
+import com.exercise.filemanagement.model.Document;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface DocumentRepository extends JpaRepository<Document, Long> {

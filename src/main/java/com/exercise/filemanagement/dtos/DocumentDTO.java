@@ -1,4 +1,4 @@
-package com.exercise.FileManagement.dtos;
+package com.exercise.filemanagement.dtos;
 
 import lombok.Builder;
 import lombok.Data;
